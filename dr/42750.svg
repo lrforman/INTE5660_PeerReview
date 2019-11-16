@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 36 36;" viewBox="0 0 36 36" y="0px" x="0px" id="Layer_1" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#CC3333;}
+</style><title/><path data-cppathid="10000" d="M20.1,12c0,1.2-1,2.2-2.1,2.2s-2.2-1-2.2-2.1s1-2.2,2.1-2.2c0,0,0,0,0,0C19.2,9.9,20.1,10.8,20.1,12z M20.3,24  H20v-7.6c0-0.2-0.2-0.4-0.4-0.4h-3.9c0,0-1.2,0-1.2,1c0,1,1.2,1,1.2,1H16v6h-0.3c0,0-1.2,0-1.2,1c0,1,1.2,1,1.2,1h4.7  c0,0,1.2,0,1.2-1C21.5,24,20.3,24,20.3,24L20.3,24z M18,1C8.6,1,1,8.6,1,18s7.6,17,17,17c9.4,0,17-7.6,17-17C35,8.6,27.4,1,18,1z   M18,31.3c-7.4,0-13.3-6-13.3-13.3c0-7.4,6-13.3,13.3-13.3c7.4,0,13.3,6,13.3,13.3C31.3,25.4,25.4,31.3,18,31.3  C18,31.3,18,31.3,18,31.3z" class="st0"/></svg>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 36 36;" viewBox="0 0 36 36" y="0px" x="0px" id="S_Download_18_N_2x" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style><path data-cppathid="10000" d="M33,24h-2c-0.6,0-1,0.4-1,1v5H6v-5c0-0.6-0.4-1-1-1H3c-0.6,0-1,0.4-1,1v8c0,0.6,0.4,1,1,1h30c0.6,0,1-0.4,1-1  v-8C34,24.4,33.6,24,33,24z" class="st0"/><path data-cppathid="10001" d="M17.6,26.9c0.2,0.2,0.5,0.2,0.7,0l7.5-7.5c0.1-0.1,0.2-0.3,0.2-0.5c0-0.4-0.4-0.8-0.8-0.8H20V3c0-0.6-0.4-1-1-1  h-2c-0.6,0-1,0.4-1,1v15h-5.2c-0.4,0-0.8,0.4-0.8,0.8c0,0.2,0.1,0.4,0.2,0.5L17.6,26.9z" class="st0"/></svg>
